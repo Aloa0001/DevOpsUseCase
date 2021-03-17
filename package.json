@@ -1,0 +1,19 @@
+{
+  "name": "devopsusecase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aloa0001/DevOpsUseCase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aloa0001/DevOpsUseCase/issues"
+  },
+  "homepage": "https://github.com/Aloa0001/DevOpsUseCase#readme"
+}
